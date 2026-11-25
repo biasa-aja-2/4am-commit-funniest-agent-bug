@@ -9,7 +9,8 @@ from pathlib import Path
 
 ENTRY = (
     "fix: after 6 hours I found the bug \u2014 me, at 3am, fixing the bug "
-    "I wrote at 2am. I have opened a ticket against myself and assigned it to me."
+    "I wrote at 2am. I opened a ticket against myself and assigned it to me. "
+    "Still open."
 )
 
 
